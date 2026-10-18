@@ -1,2 +1,36 @@
-# neural-portfolio-control
-NEURAL PORTFOLIO CONTROL — unified task + finance system powered by NEURALARCHITECTPREMIUM++. Integrates GitHub, Canva, eToro, Voice, Automations, Gmail, Figma, X Ads.
+# NEURAL PORTFOLIO CONTROL
+
+**Уникальный продукт, собранный из всех коннекторов в одном диалоге Grok.**
+
+## Что это
+
+Единая система **Задачи + Портфель + Автоматизация** для фрилансеров и AI-агентств.
+Построена на экосистеме **NEURALARCHITECTPREMIUM++**.
+
+### Источники (все коннекторы)
+
+| Коннектор | Вклад в продукт |
+|-----------|-----------------|
+| **GitHub** | Репозиторий кода, структура проекта |
+| **Canva** | Премиум-дизайн лендинга и презентации |
+| **Figma** | Дизайн-система и UI-мокапы |
+| **eToro** | Финансовый модуль (watchlist: NVDA, TSLA, BTC, ETH, SOL, PLTR...) |
+| **Gmail** | Уведомления и презентационные письма |
+| **Voice** | Голосовое описание продукта |
+| **Automations** | Ежедневные отчёты и триггеры |
+| **X Ads** | Структура продвижения |
+
+## Статус
+
+Готовый каркас продукта. Создан 18.10.2026 в одном диалоге.
+
+## Следующие шаги
+
+- Подключить Supabase backend (как в TaskControl Pro)
+- Интеграция eToro API для live-данных портфеля
+- Автоматизация отчётов
+- Полный UI на React/Vanilla JS
+
+---
+
+*Создано системой NEURALARCHITECTPREMIUM++*
